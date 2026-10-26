@@ -1,0 +1,22 @@
+{
+    "rows": 16801,
+    "train_rows": 13440,
+    "test_rows": 3361,
+    "accuracy": 0.5322820589110384,
+    "balanced_accuracy": 0.5326620692880842,
+    "cv_balanced_accuracy": 0.519565472304469,
+    "features": [
+        "rsi_14",
+        "atr_14",
+        "atr_pct",
+        "atr_dynamic",
+        "ema_distance",
+        "ema_trend",
+        "bb_width",
+        "bb_position",
+        "return_1",
+        "return_3",
+        "return_5",
+        "volume_ratio"
+    ]
+}
